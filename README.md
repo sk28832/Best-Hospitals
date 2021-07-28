@@ -1,4 +1,4 @@
-### Finding the Best Hospitals
+# Finding the Best Hospitals
 
 ## Overview
 In this project, I take data from the Hospital Compare database and
