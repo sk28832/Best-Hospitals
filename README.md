@@ -1,6 +1,6 @@
-###Finding the Best Hospitals
+### Finding the Best Hospitals
 
-##Overview
+## Overview
 In this project, I take data from the Hospital Compare database and
 compare patient mortality rates between hospitals for three main health 
 conditions --heart attack, heart failure, and pneumonia. Using R's data 
