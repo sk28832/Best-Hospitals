@@ -3,7 +3,7 @@
     "path": "~/Desktop/cs_stuff/rstuff/rprogrammingcoursera/programming_assignment_3/ranking_hospitals_state.R",
     "project_path": "ranking_hospitals_state.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2480353979",
     "contents": "",
     "dirty": false,
     "created": 1627498133446.0,
@@ -11,15 +11,15 @@
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled2",
-        "cursorPosition": "6,18",
+        "cursorPosition": "4,8",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1627501654,
+    "lastKnownWriteTime": 1627510564,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1627501654365,
+    "last_content_update": 1627510564365,
     "read_only": false,
     "read_only_alternatives": []
 }

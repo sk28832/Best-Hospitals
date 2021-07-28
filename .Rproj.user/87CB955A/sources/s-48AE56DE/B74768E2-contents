@@ -1,5 +1,5 @@
 #Load the data
-outcome <- read.csv("rprog-data-ProgAssignment3-data/outcome-of-care-measures.csv", colClasses = "character")
+outcome <- read.csv("hospital-data/outcome-of-care-measures.csv", colClasses = "character")
 
 #Checking the basic parameters and values of the dataset
 head(outcome)

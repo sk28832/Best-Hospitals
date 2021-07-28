@@ -1,7 +1,7 @@
 
 
 rankhospital <- function(state, outcome, num = "best"){
-        data <- read.csv("rprog-data-ProgAssignment3-data/outcome-of-care-measures.csv", colClasses = "character")
+        data <- read.csv("hospital-data/outcome-of-care-measures.csv", colClasses = "character")
         
         #If the state, outcome, or num is invalid, return an error message
         if(!(state %in% data$State)) stop("invalid state")

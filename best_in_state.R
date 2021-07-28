@@ -1,7 +1,7 @@
 #Finding the best hospital in the state for a certain condition
 
 best <- function(state, outcome) {
-        data <- read.csv("rprog-data-ProgAssignment3-data/outcome-of-care-measures.csv", colClasses = "character")
+        data <- read.csv("hospital-data/outcome-of-care-measures.csv", colClasses = "character")
         
         #If the state or outcome is invalid, return an error message
         if(!(state %in% data$State)) stop("invalid state")
