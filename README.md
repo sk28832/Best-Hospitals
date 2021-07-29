@@ -1,4 +1,4 @@
-# Finding the Best Hospitals
+# Finding the Best Hospitals - A Data Analysis Project
 
 ## Overview
 In this project, I take data from the Hospital Compare database and compare patient 
