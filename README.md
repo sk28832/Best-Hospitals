@@ -34,10 +34,10 @@ It provides the same functionality as the rankhospital function, except that it 
 for all of the states.
 
 For example, we could find the best heart attack hospitals in each of the states:
-![best_hospital_plot](https://user-images.githubusercontent.com/33585911/127420694-254e09e0-b0d1-4e50-8498-9fe4e9ca0a5e.png | width = 250)
+![best_hospital_plot](https://user-images.githubusercontent.com/33585911/127420694-254e09e0-b0d1-4e50-8498-9fe4e9ca0a5e.png){:height="700px" width="400px"}
 
 Or we could find the worst heart attack hospitals in each of the states:
-![worst_hospital_plot](https://user-images.githubusercontent.com/33585911/127420741-8f15e59c-1e3b-4d26-b40e-86df5bcea0f0.png | width = 250 )
+![worst_hospital_plot](https://user-images.githubusercontent.com/33585911/127420741-8f15e59c-1e3b-4d26-b40e-86df5bcea0f0.png){:height="700px" width="400px"}
 
 ##Side Notes
 1. Ties in rank are broken by which hospital comes first alphabetically
