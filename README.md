@@ -39,7 +39,7 @@ For example, we could find the best heart attack hospitals in each of the states
 Or we could find the worst heart attack hospitals in each of the states:
 ![Screen Shot 2021-07-28 at 7 29 54 PM](https://user-images.githubusercontent.com/33585911/127422307-c3b241f8-2270-4114-bb26-725b9095561d.png)
 
-##Side Notes
+## Side Notes
 1. Ties in rank are broken by which hospital comes first alphabetically
 2. State and medical condition names must be exact ("heart attack" is accepted, "hert attack" isn't)
 3. A rank that exceeds the total number of hospitals in a set of data returns "NA"
